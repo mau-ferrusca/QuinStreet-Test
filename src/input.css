@@ -1,5 +1,11 @@
+@import "tailwindcss";
+
 .header {
   background: #545253;
   height: 80px;
   width: 100%;
+}
+
+.header .logo {
+  margin: 0 auto;
 }
